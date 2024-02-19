@@ -21,9 +21,8 @@
 
 <h2>📃 Certifications </h2>
 
-- [CompTIA IT Fundamentals+](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [CompTIA A+, Core 1](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [CompTIA A+, Core 2](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [CompTIA IT Fundamentals+](https://www.credly.com/badges/b15f0a85-c5e9-4629-ba1e-8f434d000910/public_url)
+- [CompTIA A+](https://www.credly.com/badges/e24f3954-e4c8-4cd9-ade1-6016a361cbf9/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
