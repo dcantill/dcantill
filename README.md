@@ -1,10 +1,13 @@
 <h1>Hey, I'm Daelen! 
 <br/><a <a href="https://www.linkedin.com/in/daelencantillo/">Aspiring Cybersecurity Professional</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>SIEM</b>
   - [Building A Honeypot: Monitoring Live Brute-Force Attacks & Collecting API Data](https://github.com/dcantill/SIEM---Honeypot)
+  
+- <b>Active Directory
+  - [Active Directory Home Lab](https://github.com/dcantill/Active-Directory-Home-Lab/tree/main)
 
 <h2>📃 Certifications </h2>
 
