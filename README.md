@@ -4,7 +4,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>SIEM</b>
-  - [Building A Honeypot](https://github.com/dcantill/SIEM---Honeypot)
+  - [Building A Honeypot Infrastructure](https://github.com/dcantill/SIEM---Honeypot)
   
 - <b>Active Directory</b>
   - [Active Directory Home Lab](https://github.com/dcantill/Active-Directory-Home-Lab/tree/main)
