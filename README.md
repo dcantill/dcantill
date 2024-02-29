@@ -6,8 +6,11 @@
 - <b>SIEM</b>
   - [Building A Honeypot](https://github.com/dcantill/SIEM---Honeypot)
   
-- <b>Active Directory
+- <b>Active Directory</b>
   - [Active Directory Home Lab](https://github.com/dcantill/Active-Directory-Home-Lab/tree/main)
+
+- <b>Malware Analysis</b>
+  - [Keylogger Deployment & Log Management](https://github.com/dcantill/Keylogger-Deployment)
 
 <h2>📃 Certifications </h2>
 
