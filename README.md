@@ -1,5 +1,5 @@
 <h1>Hey, I'm Daelen! 
-<br/><a <a href="https://www.linkedin.com/in/daelencantillo/">Aspiring Cybersecurity Professional</a>
+<br/><a <a href="https://www.linkedin.com/in/daelencantillo/">Information Technology Professional</a>
 
 <h2>👨‍💻 Projects:</h2>
 
@@ -12,10 +12,14 @@
 - <b>Malware Analysis</b>
   - [Keylogger Deployment & Log Management](https://github.com/dcantill/Keylogger-Deployment)
 
+- <b>Network Imaging Lab Migration</b>
+  - [Lab Migration / Rewiring](https://github.com/dcantill/Network-Imaging-Lab-Migration)
+
 <h2>📃 Certifications </h2>
 
 - [CompTIA IT Fundamentals+](https://www.credly.com/badges/b15f0a85-c5e9-4629-ba1e-8f434d000910/public_url)
 - [CompTIA A+](https://www.credly.com/badges/e24f3954-e4c8-4cd9-ade1-6016a361cbf9/public_url)
+- [CompTIA Sec+](https://www.credly.com/badges/26bc2e41-6273-42e5-89f4-828a1b121126/linked_in_profile)
 
 <h2> 🤳 Connect with me:</h2>
 
